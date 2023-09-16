@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HTML wiki-page.html</title>
+</head>
+<body>
+    <div>
+        <h1>The brown Bear</h1>
+        <div>
+            <p>the bear hdhwdw wdhwkdj</p>
+            <a href="https://en.wikipedia.org/wiki/Brown_bear">LearnMore</a>!
+
+            Here are some bear species: <ul> <li>Arctos</li> <li>Collarus</li> <li>Horribilis</li> <li>Nelsoni(extinct)</li> </ul>
+            <br /> <br />
+            <p>The following countries have the largest poulations of brown bears:</p>
+            : <ol> <li>Russia</li> <li>United states</li> <li>Canada</li> </ol>
+            : <img src="bear.jpg" alt="Brown bear picture"
